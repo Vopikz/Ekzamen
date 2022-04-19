@@ -1,0 +1,13 @@
+C:\Users\№1\source\repos\Salon\Salon\bin\Debug\Salon.exe.config
+C:\Users\№1\source\repos\Salon\Salon\bin\Debug\Salon.exe
+C:\Users\№1\source\repos\Salon\Salon\bin\Debug\Salon.pdb
+C:\Users\№1\source\repos\Salon\Salon\obj\Debug\Salon.csproj.AssemblyReference.cache
+C:\Users\№1\source\repos\Salon\Salon\obj\Debug\Salon.Form1.resources
+C:\Users\№1\source\repos\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\№1\source\repos\Salon\Salon\obj\Debug\Salon.csproj.GenerateResource.cache
+C:\Users\№1\source\repos\Salon\Salon\obj\Debug\Salon.csproj.CoreCompileInputs.cache
+C:\Users\№1\source\repos\Salon\Salon\obj\Debug\Salon.exe
+C:\Users\№1\source\repos\Salon\Salon\obj\Debug\Salon.pdb
+C:\Users\№1\source\repos\Salon\Salon\obj\Debug\Salon.Заказы.resources
+C:\Users\№1\source\repos\Salon\Salon\obj\Debug\Salon.ФормированиеЗаявок.resources
+C:\Users\№1\source\repos\Salon\Salon\obj\Debug\Salon.Просмотр.resources
